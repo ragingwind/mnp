@@ -5,6 +5,7 @@
 ## Test
 
 - [avajs/ava: Futuristic JavaScript test runner](https://goo.gl/NdFJQs)
+- [sindresorhus/xo: ❤️ Happiness JavaScript linter](https://goo.gl/NVPUlc)
 
 # License
 
