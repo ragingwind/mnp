@@ -2,6 +2,10 @@
 
 :key: Requisite node modules for my every small node projects
 
+## Process
+
+- [sindresorhus/execa: A better `child_process`](https://goo.gl/WejUFJ)
+
 ## String
 
 - [sindresorhus/decamelize: Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow](https://goo.gl/7Xe76Y)
