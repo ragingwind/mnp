@@ -6,6 +6,10 @@
 
 - [sindresorhus/execa: A better `child_process`](https://goo.gl/WejUFJ)
 
+## Path
+
+- [ragingwind/os-random-tmpdir: Return randomized hashed path under the temp dir. It is extension of [os-tmpdir](https://github.com/sindresorhus/os-tmpdir)](https://goo.gl/81Z0Hu)
+- 
 ## String
 
 - [sindresorhus/decamelize: Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow](https://goo.gl/7Xe76Y)
