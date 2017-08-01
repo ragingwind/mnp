@@ -14,7 +14,7 @@
 
 ## Configuration
 
-- [find-cache-dir](https://goo.gl/xyg9Zp)
+- [avajs/find-cache-dir: Finds the common standard cache directory](https://goo.gl/6ifUFh)
 
 # Git/Github
 
