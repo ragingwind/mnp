@@ -12,6 +12,10 @@
 - [isaacs/rimraf: A `rm -rf` util for nodejs](https://goo.gl/GZzAB6)
 - [ragingwind/os-random-tmpdir: Return randomized hashed path under the temp dir. It is extension of [os-tmpdir](https://github.com/sindresorhus/os-tmpdir)](https://goo.gl/81Z0Hu)
 
+# Git/Github
+
+- [flipxfx/download-git-repo: Download and extract a git repository (GitHub, GitLab, Bitbucket) from node.](https://goo.gl/SYbQX6)
+
 ## String
 
 - [sindresorhus/decamelize: Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow](https://goo.gl/7Xe76Y)
