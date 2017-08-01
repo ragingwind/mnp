@@ -12,6 +12,10 @@
 - [isaacs/rimraf: A `rm -rf` util for nodejs](https://goo.gl/GZzAB6)
 - [ragingwind/os-random-tmpdir: Return randomized hashed path under the temp dir. It is extension of [os-tmpdir](https://github.com/sindresorhus/os-tmpdir)](https://goo.gl/81Z0Hu)
 
+## Configuration
+
+- [find-cache-dir](https://goo.gl/xyg9Zp)
+
 # Git/Github
 
 - [flipxfx/download-git-repo: Download and extract a git repository (GitHub, GitLab, Bitbucket) from node.](https://goo.gl/SYbQX6)
