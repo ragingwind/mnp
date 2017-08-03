@@ -13,7 +13,7 @@
   npm i mkdirp
   ```
 - [isaacs/rimraf: A `rm -rf` util for nodejs](https://goo.gl/GZzAB6)
-- [ragingwind/os-random-tmpdir: Return randomized hashed path under the temp dir. It is extension of [os-tmpdir](https://github.com/sindresorhus/os-tmpdir)](https://goo.gl/81Z0Hu)
+- [ragingwind/os-random-tmpdir: Return randomized hashed path under the temp dir. It is extension of os-tmpdir](https://goo.gl/81Z0Hu)
 
 ## Configuration
 
