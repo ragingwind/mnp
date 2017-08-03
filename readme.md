@@ -1,4 +1,4 @@
-# Requisite node
+# mnp, my (most) npm packages
 
 :key: Requisite node modules for my every small node projects
 
